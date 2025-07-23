@@ -4,11 +4,12 @@ title: Accueil
 nav_order: 1
 ---
 
-# Bienvenue sur **Ouaisfi Docs**
+# Bienvenue sur **Ouaisfi·eu - Contact**
 
 👋 Ceci est le **centre de documentation** du projet **ouaisfi.eu**.  
 Vous trouverez ici :
 
+- toutes nos fiches thématiques ;
 - des explications pas‑à‑pas ;
 - un glossaire des termes essentiels ;
 - des liens vers les sous‑projets.
