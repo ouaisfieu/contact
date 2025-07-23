@@ -16,7 +16,7 @@ Vous trouverez ici :
 
 ## Sous‑projets
 - [🌐 Site principal](https://ouaisfi.eu/)
-- [📂 Dossiers](https://ouaisfi.eu/dossiers/)
+- [📂 Dossiers]([https://ouaisfieu.github.io/)
 - [🤖 GPTPardi](https://ouaisfi.eu/GPTPardi/)
 - [🔧 Tech](https://ouaisfi.eu/tech/)
 - [🏙️ BXL2030](https://ouaisfi.eu/bxl2030/)
