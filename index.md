@@ -16,10 +16,10 @@ Vous trouverez ici :
 
 ## Sous‑projets
 - [🌐 Site principal](https://ouaisfi.eu/)
-- [📂 Dossiers]([https://ouaisfieu.github.io/)
-- [🤖 GPTPardi](https://ouaisfi.eu/GPTPardi/)
-- [🔧 Tech](https://ouaisfi.eu/tech/)
-- [🏙️ BXL2030](https://ouaisfi.eu/bxl2030/)
+- [📂 Dossiers](https://ouaisfieu.github.io/)
+- [🤖 GPTPardi](https://ouaisfieu.github.io/GPTPardi/)
+- [🔧 Tech](https://ouaisfieu.github.io/tech/)
+- [🏙️ BXL2030](https://ouaisfieu.github.io/bxl2030/) ou [2042 - moins sombre](https://ouaisfieu.github.io/bxl20)
 
 ## Rejoindre la communauté
-Les échanges publics se font sur **[GitHub Discussions](https://github.com/ouaisfi/docs/discussions)**.
+Les échanges publics se font sur **[GitHub Discussions](https://github.com/ouaisfieu/contact/discussions)**.
