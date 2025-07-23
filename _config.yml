@@ -1,0 +1,13 @@
+title: Ouaisfi·eu · Contact
+description: Porte d’entrée du projet
+remote_theme: just-the-docs/just-the-docs
+logo: /assets/logo.svg
+color_scheme: light
+
+# Options Just the Docs
+search_enabled: true
+back_to_top: true
+back_to_top_text: "Retour en haut"
+
+# Footers
+footer_content: "© 2025 – Ouaisfi·eu • ‘Tout est permis sauf usage commercial’"
