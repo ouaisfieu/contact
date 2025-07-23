@@ -1,4 +1,4 @@
-# Code de conduite Ouaisfi
+# Code de conduite Ouaisfi·eu
 
 Nous nous engageons à offrir un environnement accueillant et respectueux.
 Toute personne participant à ce projet doit respecter les règles suivantes :
