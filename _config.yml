@@ -12,9 +12,7 @@ back_to_top_text: "Retour en haut"
 # Footers
 footer_content: "© 2025 – Ouaisfi·eu • ‘Tout est permis sauf usage commercial’"
 
-collections:
-  kits:
-    output: true
+
 
 just_the_docs:
   collections:
@@ -23,3 +21,10 @@ just_the_docs:
       nav_fold: true         # navigation repliable (pratique si tu as beaucoup de kits)
       # search_exclude: false
 search_enabled: true
+
+
+collections:
+  kits:
+    output: true
+  posts:
+    output: true
