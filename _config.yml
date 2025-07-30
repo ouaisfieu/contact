@@ -26,5 +26,5 @@ search_enabled: true
 collections:
   kits:
     output: true
-  posts:
+  notes:
     output: true
